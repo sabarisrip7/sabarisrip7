@@ -220,3 +220,9 @@ React • JavaScript • Groq API • LLaMA 3.3
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sabarisrip7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sabarisrip7/sabarisrip7/output/github-contribution-grid-snake.svg"/>
+</p>
