@@ -186,6 +186,13 @@ React • JavaScript • Groq API • LLaMA 3.3
 - 🚀 Complete **CodeMentor AI**
 - 🌐 Deploy my Personal Portfolio
 - 🧠 Learn RAG & LLM Engineering
-- 📚 Solve **500+ LeetCode** problems
+- 📚 Solve **300+ LeetCode** problems
 - 🤝 Contribute to Open Source
 - 💼 Secure a Software Engineering Internship
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabarisrip7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarisrip7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
