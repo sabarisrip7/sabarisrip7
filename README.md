@@ -180,3 +180,12 @@ React • JavaScript • Groq API • LLaMA 3.3
 </td>
 </tr>
 </table>
+
+## 🎯 Current Goals
+
+- 🚀 Complete **CodeMentor AI**
+- 🌐 Deploy my Personal Portfolio
+- 🧠 Learn RAG & LLM Engineering
+- 📚 Solve **500+ LeetCode** problems
+- 🤝 Contribute to Open Source
+- 💼 Secure a Software Engineering Internship
