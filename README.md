@@ -193,8 +193,8 @@ React • JavaScript • Groq API • LLaMA 3.3
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabarisrip7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarisrip7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabarisrip7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarisrip7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 GitHub Streak
@@ -206,7 +206,7 @@ React • JavaScript • Groq API • LLaMA 3.3
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sabarisrip7&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sabarisrip7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ## 📈 Contribution Graph
@@ -221,11 +221,6 @@ React • JavaScript • Groq API • LLaMA 3.3
 <img src="https://komarev.com/ghpvc/?username=sabarisrip7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sabarisrip7/sabarisrip7/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ## 💡 Quote
 
