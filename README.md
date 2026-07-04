@@ -62,30 +62,43 @@ Become an AI Engineer / Full Stack Software Engineer building impactful real-wor
 
 ## 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### AI / ML
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
+### AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
+</p>
 <p>
 Machine Learning • Deep Learning • NLP • Pandas • NumPy
 </p>
