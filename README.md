@@ -9,35 +9,29 @@ Building intelligent applications using AI, Machine Learning and Full Stack Deve
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast;MERN+Stack+Developer;Building+AI-Powered+Applications;LeetCode+Problem+Solver;Always+Learning+New+Things🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+ML+Enthusiast;MERN+Stack+Developer;Building+AI-Powered+Applications;LeetCode+Problem+Solver;Learning+LLMs+%26+RAG;Always+Learning+New+Things+🚀" />
 </p>
 
+---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science student at **Kongu Engineering College**.
+🎓 Pre-Final Year B.Tech Artificial Intelligence & Data Science student at **Kongu Engineering College** (Class of 2028)
 
-💡 Passionate about AI, Machine Learning and Full Stack Development.
+💡 Passionate about Artificial Intelligence, Machine Learning and Full Stack Development.
 
 🧠 I enjoy solving Data Structures & Algorithms problems.
 
-🚀 Currently building AI-powered applications using MERN Stack, FastAPI and LLMs.
+🚀 Currently developing AI-powered applications using MERN Stack, FastAPI, LLMs and RAG.
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
-# 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/sabarisrip7/
-- Portfolio: https://github.com/sabarisrip7/Sabari-sri-P-portfolio
-- LeetCode: https://leetcode.com/u/sabarisrip7/
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/sabariprees4a
-- Email: sabaripremkumar3@gmail.com
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - System Design
-- FastAPI
 - Advanced React
+- FastAPI
 
-🎯 Goal
+🎯 **Goal**
 
-Become an AI Engineer / Full Stack Software Engineer.
+Become an AI Engineer / Full Stack Software Engineer building impactful real-world products.
