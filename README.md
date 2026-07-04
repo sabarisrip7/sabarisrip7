@@ -196,3 +196,15 @@ React • JavaScript • Groq API • LLaMA 3.3
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabarisrip7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarisrip7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sabarisrip7&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sabarisrip7&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
