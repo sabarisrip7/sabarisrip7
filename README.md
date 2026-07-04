@@ -59,3 +59,39 @@ Building intelligent applications using AI, Machine Learning and Full Stack Deve
 🎯 **Goal**
 
 Become an AI Engineer / Full Stack Software Engineer building impactful real-world products.
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p>
+Machine Learning • Deep Learning • NLP • Pandas • NumPy
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
+</p>
