@@ -226,3 +226,9 @@ React • JavaScript • Groq API • LLaMA 3.3
 <p align="center">
 <img src="https://raw.githubusercontent.com/sabarisrip7/sabarisrip7/output/github-contribution-grid-snake.svg"/>
 </p>
+
+## 💡 Quote
+
+> "The best way to predict the future is to build it."
+
+⭐ If you like my work, don't forget to star my repositories!
