@@ -103,8 +103,3 @@ Become an AI Engineer / Full Stack Software Engineer building impactful real-wor
 Machine Learning • Deep Learning • NLP • Pandas • NumPy
 </p>
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
-</p>
