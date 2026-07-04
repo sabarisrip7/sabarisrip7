@@ -25,6 +25,13 @@ Building intelligent applications using AI, Machine Learning and Full Stack Deve
 
 🌱 Currently Learning
 
+# 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sabarisrip7/
+- Portfolio: https://github.com/sabarisrip7/Sabari-sri-P-portfolio
+- LeetCode: https://leetcode.com/u/sabarisrip7/
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/sabariprees4a
+- Email: sabaripremkumar3@gmail.com
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - System Design
