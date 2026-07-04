@@ -103,3 +103,80 @@ Become an AI Engineer / Full Stack Software Engineer building impactful real-wor
 Machine Learning • Deep Learning • NLP • Pandas • NumPy
 </p>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 CodeMentor AI
+
+**AI-Powered Personalized DSA Interview Coach**
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • LLM • RAG
+
+✨ Features
+
+- 💻 Real-time Code Review
+- 📈 Time & Space Complexity Analysis
+- 🧠 Personalized Weak Topic Analysis
+- 💡 AI-generated Hints
+- 🎯 Personalized Study Roadmap
+
+</td>
+
+<td width="50%">
+
+### 🧠 HabitFlow – AI Habit Tracker
+
+**AI-powered Habit Tracking Platform**
+
+**Tech Stack**
+
+React • JavaScript • Groq API • LLaMA 3.3
+
+✨ Features
+
+- 💧 Water Tracking
+- 😴 Sleep Monitoring
+- 🏃 Exercise Tracking
+- 🔥 Daily Streak System
+- 🤖 AI Motivational Coach
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Customer Churn Prediction
+
+**Deep Learning based Customer Churn Prediction**
+
+✨ Features
+
+- 📈 Sequential Data Analysis
+- 🧠 LSTM & GRU Models
+- 🤖 Transformer Architecture
+- 📉 Churn Probability Prediction
+
+</td>
+
+<td width="50%">
+
+### 🎓 Student REST API Application
+
+**Full Stack Student Management System**
+
+✨ Features
+
+- ➕ Add Students
+- ✏️ Update Records
+- 🔍 Search Functionality
+- ♻️ Soft Delete & Restore
+
+</td>
+</tr>
+</table>
