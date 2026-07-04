@@ -26,6 +26,10 @@ Building intelligent applications using AI, Machine Learning and Full Stack Deve
 
 🌱 **Currently Learning**
 
+🎯 **Goal**
+
+Become an AI Engineer / Full Stack Software Engineer building impactful real-world products.
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -55,10 +59,6 @@ Building intelligent applications using AI, Machine Learning and Full Stack Deve
 - System Design
 - Advanced React
 - FastAPI
-
-🎯 **Goal**
-
-Become an AI Engineer / Full Stack Software Engineer building impactful real-world products.
 
 ## 💻 Tech Stack
 
