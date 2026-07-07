@@ -185,24 +185,6 @@ React • JavaScript • Groq API
 - 🤝 Contribute to Open Source
 - 💼 Secure a Software Engineering Internship
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabarisrip7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarisrip7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sabarisrip7&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sabarisrip7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
 
 ## 📈 Contribution Graph
 
