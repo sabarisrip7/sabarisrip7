@@ -9,7 +9,7 @@ Building intelligent applications using AI, Machine Learning and Full Stack Deve
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+ML+Enthusiast;MERN+Stack+Developer;Building+AI-Powered+Applications;LeetCode+Problem+Solver;Learning+LLMs+%26+RAG;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+ML+Enthusiast;MERN+Stack+Developer;Building+AI-Powered+Applications;LeetCode+Problem+Solver;Always+Learning+New+Things+🚀" />
 </p>
 
 ---
@@ -22,7 +22,7 @@ Building intelligent applications using AI, Machine Learning and Full Stack Deve
 
 🧠 I enjoy solving Data Structures & Algorithms problems.
 
-🚀 Currently developing AI-powered applications using MERN Stack, FastAPI, LLMs and RAG.
+🚀 Currently developing AI-powered applications using MERN Stack, FastAPI.
 
 🌱 **Currently Learning**
 
@@ -54,8 +54,6 @@ Become an AI Engineer / Full Stack Software Engineer building impactful real-wor
   </a>
 </p>
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
 - System Design
 - Advanced React
 - FastAPI
@@ -91,9 +89,7 @@ Become an AI Engineer / Full Stack Software Engineer building impactful real-wor
 - Machine Learning
 - Deep Learning
 - Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-
+  
 ### Tools & Platforms
 
 <p>
@@ -115,7 +111,7 @@ Machine Learning • Deep Learning • NLP • Pandas • NumPy
 
 **Tech Stack**
 
-React • Node.js • Express • MongoDB • LLM • RAG
+React • Node.js • Express • MongoDB 
 
 ✨ Features
 
@@ -135,7 +131,7 @@ React • Node.js • Express • MongoDB • LLM • RAG
 
 **Tech Stack**
 
-React • JavaScript • Groq API • LLaMA 3.3
+React • JavaScript • Groq API 
 
 ✨ Features
 
@@ -185,8 +181,7 @@ React • JavaScript • Groq API • LLaMA 3.3
 
 - 🚀 Complete **CodeMentor AI**
 - 🌐 Deploy my Personal Portfolio
-- 🧠 Learn RAG & LLM Engineering
-- 📚 Solve **300+ LeetCode** problems
+- 📚 Solve **150+ LeetCode** problems
 - 🤝 Contribute to Open Source
 - 💼 Secure a Software Engineering Internship
 
