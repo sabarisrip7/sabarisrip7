@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabari Sri P</h1>
 
 <h3 align="center">
-AI & Data Science Student | MERN Stack Developer | AI/ML Enthusiast
+AI & Data Science Student | FULL Stack Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -185,12 +185,6 @@ React • JavaScript • Groq API
 - 🤝 Contribute to Open Source
 - 💼 Secure a Software Engineering Internship
 
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabarisrip7&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ## 👀 Profile Views
 
