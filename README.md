@@ -54,9 +54,6 @@ Become an AI Engineer / Full Stack Software Engineer building impactful real-wor
   </a>
 </p>
 
-- System Design
-- Advanced React
-- FastAPI
 
 ## 💻 Tech Stack
 
