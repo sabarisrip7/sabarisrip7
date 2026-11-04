@@ -37,7 +37,7 @@ Become an AI Engineer / Full Stack Software Engineer building impactful real-wor
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/sabarisrip7/Sabari-sri-P-portfolio" target="_blank">
+  <a href="https://sabarisrip7.github.io/Sabari-Sri-P/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
